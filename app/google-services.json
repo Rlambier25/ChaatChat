@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80173720680",
+    "firebase_url": "https://chatchaat-be9e6.firebaseio.com",
+    "project_id": "chatchaat-be9e6",
+    "storage_bucket": "chatchaat-be9e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80173720680:android:cf05c5c731737544",
+        "android_client_info": {
+          "package_name": "com.epicodus.chaatchat.chaatchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80173720680-95alf8vqe9kmd32rmbudbeeur42eufji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epicodus.chaatchat.chaatchat",
+            "certificate_hash": "357349C13BFB9E024DFBB24A6DC1D69FAF24F147"
+          }
+        },
+        {
+          "client_id": "80173720680-6d3mhui7um53nrl4uujaa28o9amoqkc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLzv5ZasoI5VI2t4pg8mk2xE2-8I185s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80173720680-6d3mhui7um53nrl4uujaa28o9amoqkc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
